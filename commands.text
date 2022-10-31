@@ -4,7 +4,7 @@ Basic commands in Github:
 
 --- <value>: value of something.
 
-Push a folder to Repository:
+*** Push a folder to Repository:
     - cd <folder_location>: move to that folder.
     - ls : show all files, folders in that folders.
 
@@ -18,7 +18,7 @@ Push a folder to Repository:
     - git remote add origin https://github.com/thanhbl-hust/github-basic.git.
     - git push -u origin main(every time you commit new version).
 
-Take repo from internet to your local and push back to internet.
+*** Take repo from internet to your local and push back to internet.
     - git clone <html_link_of_your_repo> <folder>
     - change your code in local.
     - cd to your folder.
