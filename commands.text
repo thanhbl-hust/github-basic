@@ -15,7 +15,7 @@ Basic commands in Github:
     - git log
 
     - git branch -M main(first time only).
-    - git remote add origin https://github.com/thanhbl-hust/github-basic.git.
+    - git remote add origin https://github.com/thanhbl-hust/github-basic.git (one time only with each repo).
     - git push -u origin main(every time you commit new version).
 
 *** Take repo from internet to your local and push back to internet.
