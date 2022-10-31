@@ -23,4 +23,5 @@ Take repo from internet to your local.
     - git init.
     - git add --all.
     - git status(check if ready to commit).
+    - git commit -m <comment>
     - git push -u origin main.
