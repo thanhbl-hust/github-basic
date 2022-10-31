@@ -18,4 +18,9 @@ Push a folder to Repository:
 
 Take repo from internet to your local.
     - git clone <html_link_of_your_repo> <folder>
-    
+    - change your code in local.
+    - cd to your folder.
+    - git init.
+    - git add --all.
+    - git status(check if ready to commit).
+    - git push -u origin main.
