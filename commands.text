@@ -1,0 +1,15 @@
+Basic commands in Github:
+
+--- <value>: value of something.
+
+Push a folder to Repository:
+    - cd <folder_location>: move to that folder.
+    - ls : show all files, folders in that folders.
+
+    - git init .: make a repo in that folder.
+    - git add --all: add all files in folder(ready to commit).
+    - git status: show status of that folder(ready to commit or not).
+    - git commit -m "<comment what you do here>"
+
+    
+
