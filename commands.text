@@ -16,4 +16,6 @@ Push a folder to Repository:
     - git remote add origin https://github.com/thanhbl-hust/github-basic.git.
     - git push -u origin main(every time you commit new version).
 
-
+Take repo from internet to your local.
+    - git clone <html_link_of_your_repo> <folder>
+    
