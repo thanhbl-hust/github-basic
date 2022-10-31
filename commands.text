@@ -10,6 +10,10 @@ Push a folder to Repository:
     - git add --all: add all files in folder(ready to commit).
     - git status: show status of that folder(ready to commit or not).
     - git commit -m "<comment what you do here>"
+    - git log
 
-    
+    - git branch -M main(first time only).
+    - git remote add origin https://github.com/thanhbl-hust/github-basic.git.
+    - git push -u origin main(every time you commit new version).
+
 
