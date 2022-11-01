@@ -27,3 +27,10 @@ Basic commands in Github:
     - git status(check if ready to commit).
     - git commit -m <comment>
     - git push -u origin main.
+
+
+*** Host your website using Github pages.
+    - code and push to your website repo.
+    - Go to "Settings", change branch from "none" to "main" or "master".
+    - Your website is ready to go.
+    - If you want to update, change to code and push again(may take 10 mins to update your website).
